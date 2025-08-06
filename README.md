@@ -20,7 +20,7 @@ mymarket is a clean and scalable backend application designed to manage users, p
 - 🔁 Alembic (database migrations)
 - 🧪 Pytest
 - 🐳 Docker & Docker Compose
-
+- 🗃️ MinIO
 ---
 
 ## 🗃️ Database Schema
@@ -29,11 +29,3 @@ mymarket is a clean and scalable backend application designed to manage users, p
 
 
 ---
-
-## 🚀 Getting Started
-
-### 📦 Clone the repository
-
-```bash
-git clone https://github.com/your-username/mymarket.git
-cd mymarket
